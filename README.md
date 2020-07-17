@@ -9,4 +9,6 @@
 
 > node_modules安装在最外面，在最外层运行 `cnpm i` 本地下载安装loader和plugins
 
-笔记[在这里]()
+代码详情可以看最外层PDF文件
+
+学习笔记[在这里]()
